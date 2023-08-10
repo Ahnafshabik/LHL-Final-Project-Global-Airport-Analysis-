@@ -1,4 +1,4 @@
-# LHL-Final-Project-Global-Airport-Analysis-
+# LHL-Final-Project-Global-Airport-Analysis
 Explore Airport Distribution, Economics, and Infrastructure.
 
 Project Description
