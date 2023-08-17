@@ -1,13 +1,38 @@
-# LHL-Final-Project-Global-Airport-Analysis
-Explore Airport Distribution, Economics, and Infrastructure.
+# Airport Distribution & Economic Analysis
 
-Project Description
+## Project/Goals 🎯
+- **Objective**: Understand the distribution of airports across various countries and correlate this with economic indicators, primarily GDP and other factors like altitude. The goal is to identify patterns, outliers, and potential growth opportunities in the aviation sector.
 
-Goal: 
-     The goal of this project is to analyze global airport data and provide valuable insights into the distribution of airports, their economic implications, and their correlation with population and infrastructure. Through data-driven analysis and interactive Tableau dashboards, the project aims to uncover patterns, relationships, and trends within the aviation industry.
+## Process 🧪
 
-Project Description: 
-                    This project addresses the need to understand the dynamics of airport distribution, their economic significance, and their relationship with population and infrastructure. By conducting descriptive and comparative analyses, we seek to answer questions about airport density, economic growth, and population impact. Additionally, through interactive Tableau dashboards, users will be able to explore geospatial distribution and obtain in-depth country profiles, enhancing decision-making for various stakeholders in the aviation sector.
+### Data Collection 📦
+- Datasets were sourced from Kaggle.com, focusing on global airport distributions and world data from 2023.
 
-Deliverable: 
-            The project will result in a comprehensive project description document outlining the objectives, methodologies, findings, and insights gained from the analysis of airport data. Additionally, interactive Tableau dashboards showcasing geospatial patterns and country profiles will be provided to offer a user-friendly exploration of the data.
+### Data Cleaning & EDA 🧹
+- Undertook rigorous data cleaning for missing values, outliers, and inconsistencies.
+- Extensive Exploratory Data Analysis (EDA) was performed to understand data structure and derive meaningful insights.
+
+## Key Results 📈
+
+### Correlation with GDP:
+- Strong positive correlation (approximately 0.82) between countries' GDP and their number of airports.
+
+### Top Countries by Number of Airports:
+- The US leads, followed by countries like Canada, China, Australia, and Brazil.
+
+### Airport Types Distribution:
+- Diverse distribution observed, with the US predominantly housing large airports.
+
+### Altitude Analysis:
+- Countries like Eritrea, Bhutan, and Bolivia have airports at significant altitudes.
+
+### Economic Indicators:
+- Identified countries with high GDP but fewer airports than expected, indicating potential growth areas in the aviation sector.
+
+## Challenges 🚧
+- Data inconsistencies and complex correlations made the analysis intricate at times.
+
+## Future Goals 🌟
+- Conduct deeper economic analysis.
+- Develop predictive models for airport growth.
+- Dive deeper into regional airport distributions.
